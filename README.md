@@ -11,6 +11,7 @@ Paste the follwing code, hit Enter and it will do two things:
 1. make a sound when the chat message is recieved or sent.
 2. change the avatar to an actual orange instead of the [hitler avatar](https://livechat.orange.eg/chat/images/agent.png) .
 
+Note this was tested only on chrome.
 ```javascript
 var notification_beep_url = "https://upload.wikimedia.org/wikipedia/commons/d/df/Chord2_%21_%28Ab-C-D-G%29.mp3";
 var notification_beep = new Audio(notification_beep_url);
