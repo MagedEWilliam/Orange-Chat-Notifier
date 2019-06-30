@@ -1,5 +1,5 @@
 # Orange-Chat-Notifier
-cuz Orange.eg chat system has no tune.
+Cuz Orange.eg support chat has no tune.
 
 ## The problem:
 when you chat with support you will have to wait upto almost 25min before a rep reply to you.
