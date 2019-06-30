@@ -1,5 +1,5 @@
 # Orange-Chat-Notifier
-Cuz Orange.eg support live chat has no tune.
+Cuz [Orange.eg](https://www.orange.eg) [live chat](https://livechat.orange.eg/chat/index.html) has no tune.
 
 ## The problem:
 When you chat with support you will have to wait upto almost 25min before a rep reply to you.
