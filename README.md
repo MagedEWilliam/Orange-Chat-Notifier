@@ -2,7 +2,7 @@
 Cuz Orange.eg support chat has no tune.
 
 ## The problem:
-when you chat with support you will have to wait upto almost 25min before a rep reply to you.
+When you chat with support you will have to wait upto almost 25min before a rep reply to you.
 you will be surfing on other tabs and will not notice if a message is recived and the chat will end automatically.
 
 ## My solution:
@@ -11,7 +11,7 @@ Paste the follwing code and it will do two things:
 1. make a sound when the chat message is recieved or sent.
 2. change the avatar to an actual orange instead of the [hitler avatar](https://livechat.orange.eg/chat/images/agent.png) .
 
-```
+```javascript
 var notification_beep_url = "https://upload.wikimedia.org/wikipedia/commons/d/df/Chord2_%21_%28Ab-C-D-G%29.mp3";
 var notification_beep = new Audio(notification_beep_url);
 var orange_avatar = "https://upload.wikimedia.org/wikipedia/commons/d/dc/Orange-fruit.png";
