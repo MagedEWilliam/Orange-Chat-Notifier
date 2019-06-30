@@ -7,7 +7,7 @@ you will be surfing on other tabs and will not notice if a message is recived an
 
 ## My solution:
 If you chatting from the desktop then all you need is to open the inspector (ctrl + shift + T) then choose the Console tab.
-Paste the follwing code and it will do two things:
+Paste the follwing code, hit Enter and it will do two things:
 1. make a sound when the chat message is recieved or sent.
 2. change the avatar to an actual orange instead of the [hitler avatar](https://livechat.orange.eg/chat/images/agent.png) .
 
